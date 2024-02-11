@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hirech Baghdad Belkheir</h1>
 <h3 align="center">Distributed System Engineer, Cloud Solution Architect and Sysadmin</h3>
 
-- 🔭 I’m currently working on [Atlanexis Chat](https://github.com/hirechbaghdad/chat)
+- 🔭 I’m currently working on [OpenZFS Fuse Project for BSD and Linux](https://github.com/openzfs/zfs)
 
 - 👯 I’m looking to collaborate on [FreeBSD Project](https://github.com/freebsd)
 
